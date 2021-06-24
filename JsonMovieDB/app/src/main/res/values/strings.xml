@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Filmku</string>
+    <string name="welcome">Hello Aqin, Selamat datang di aplikasi FilmKU </string>
+    <string name="rekomen">Rekomendasi Film</string>
+</resources>
